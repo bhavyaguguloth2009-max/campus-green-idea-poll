@@ -6,3 +6,7 @@ backend/.env.*
 *.log
 .DS_Store
 .vscode/
+.env
+**/.env
+node_modules/
+**/node_modules/
